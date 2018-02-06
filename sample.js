@@ -8,6 +8,6 @@ To get started
 */
 
 var fs = require('fs');
-var dataRaw = fs.readFileSync('./data.json');
+var dataRaw = fs.readFileSync('./data-small.json');
 var data = JSON.parse(dataRaw);
 console.log(data);
