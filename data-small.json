@@ -1,7 +1,7 @@
 [
-	{"key":1,"name":"colby",
-"weight":1000},
-	{"key":2,"name":"ceila",
-"weight":900},
-	{"key":3,"name":"honey","weight":1200}
+	{"key":1,"type":"horse","name":"colby", "weight":1000},
+	{"key":2,"type":"horse","name":"ceila", "weight":900},
+	{"key":3,"type":"horse","name":"honey","weight":1200},
+	{"key":4,"type":"cat","name":"momacat","weight":5},
+	{"key":5,"type":"cat","name":"fluffy-pants","weight":8}
 ]
