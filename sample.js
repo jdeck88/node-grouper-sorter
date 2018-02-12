@@ -16,7 +16,7 @@ var d3 = require('d3');
 console.log("---------this is our incoming data source ------------")
 console.log(data);
 
-console.log("---------this is our output data -----")
+console.log("---------fthe following sorts by institution code and collection code, sorted by Institution Code Name-----")
 
 console.log(JSON.stringify(valueTotal(data,'institutionCode','key','ascending','collectionCode')));
 
